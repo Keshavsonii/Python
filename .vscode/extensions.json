@@ -1,0 +1,13 @@
+{
+    "recommendations": [
+        "ms-python.python",
+        "ms-python.vscode-pylance",
+        "ms-python.debugpy",
+        "ms-python.black-formatter",
+        "eamodio.gitlens",
+        "github.vscode-pull-request-github",
+        "usernamehw.errorlens",
+        "aaron-bond.better-comments",
+        "editorconfig.editorconfig"
+    ]
+}
